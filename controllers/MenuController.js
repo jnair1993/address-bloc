@@ -53,4 +53,9 @@ module.exports = class MenuController {
   getContactCount() {
     return this.contacts.length;
   }
+
+  remindMe() {
+    let str = "Learning is a life-long pursuit";
+    return str;
+  }
 }
