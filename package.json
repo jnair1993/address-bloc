@@ -9,9 +9,12 @@
   "author": "Jayesh Nair",
   "license": "ISC",
   "dependencies": {
-    "inquirer": "^5.1.0"
+    "inquirer": "^5.2.0",
+    "pg": "^7.4.3",
+    "pg-hstore": "^2.3.2",
+    "sequelize": "^4.38.0"
   },
   "devDependencies": {
-    "jasmine": "^3.1.0"
+    "jasmine": "^3.2.0"
   }
 }
